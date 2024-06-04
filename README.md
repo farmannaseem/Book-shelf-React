@@ -18,7 +18,7 @@ Make sure you have Node.js and npm installed on your machine. You can download a
    git clone https://github.com/farmannaseem/Book-shelf-React.git
 2.Navigate to the project directory:
 
-  cd Book-shelf-React
+  cd Book-shelf-React  
 3.Install dependencies using npm:  
   
   npm install
