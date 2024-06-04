@@ -19,7 +19,7 @@ Make sure you have Node.js and npm installed on your machine. You can download a
 2.Navigate to the project directory:
 
   cd Book-shelf-React
-3.Install dependencies using npm:
+3.Install dependencies using npm:  
   
   npm install
 Running the Application
